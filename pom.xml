@@ -12,6 +12,7 @@
         <exec.mainClass>com.mywork.registrationform1.RegistrationForm1</exec.mainClass>
     </properties>
        <dependencies>
+      <dependencies>
      <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
